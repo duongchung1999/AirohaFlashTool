@@ -1,0 +1,9 @@
+time=2024-01-31 09:11:07.282, level=INFO, class = LogService, tool_version = 0.2.19/air_bta_ic_premium_g3
+time=2024-01-31 09:11:07.279, level=INFO, class = Controller, SetLogLevel = 3
+time=2024-01-31 09:11:07.279, level=DEBUG, class = ToolLogLevel, log_level = 3
+time=2024-01-31 09:11:07.279, level=DEBUG, class = ToolLogLevel, task_time = 0.000
+time=2024-01-31 09:11:07.279, level=DEBUG, class = ConnectDUT, state = init data, result = ok
+time=2024-01-31 09:11:17.279, level=ERROR, E:\home\mtk61452\Git\Airoha\crossover\src\task\connect_device.cc:179(-1): class = ConnectDUT, error_message = find_new_serial fail
+time=2024-01-31 09:11:17.280, level=ERROR, class = Task, task_name = ConnectDUT, error_message = Fail to execute RunTask()
+time=2024-01-31 09:11:17.280, level=DEBUG, class = ConnectDUT, task_time = 10.000
+time=2024-01-31 09:11:17.280, level=DEBUG, class = LogService, state = CloseLogFile, pass_fail = 1, postfix = 

@@ -1,0 +1,7 @@
+time=2024-01-31 09:11:59.691, level=INFO, class = LogService, tool_version = 0.2.19/air_bta_ic_premium_g3
+time=2024-01-31 09:11:59.688, level=INFO, class = Controller, SetLogLevel = 3
+time=2024-01-31 09:11:59.688, level=DEBUG, class = ToolLogLevel, log_level = 3
+time=2024-01-31 09:11:59.688, level=DEBUG, class = ToolLogLevel, task_time = 0.000
+time=2024-01-31 09:11:59.688, level=DEBUG, class = GetBinInfo, cfg_file_path = E:/2. MEVNSW/1_SourceCode/1_LOGITECH/HDT627/TICO/FW/Tico_Airoha v2.0.7_unlock/Tico_Airoha v2.0.7 unlock/dongle/download/flash_download.cfg
+time=2024-01-31 09:11:59.692, level=DEBUG, class = GetBinInfo, task_time = 0.004
+time=2024-01-31 09:11:59.692, level=DEBUG, class = LogService, state = CloseLogFile, pass_fail = 1, postfix = 
